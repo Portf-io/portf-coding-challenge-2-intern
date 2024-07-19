@@ -4,11 +4,12 @@ Welcome to the Task Manager coding challenge, in this challenge you will be task
 
 Already scaffolded for you is a NextJS app with the following integrations:
 
-- Prisma ORM with SQLite
-- Nexus (GraphQL schema generation)
-- Apollo Server
-- Apollo Client
-- GraphQL Code Generator (for apollo client requests
+- SQLite
+- [Prisma ORM](https://www.prisma.io/docs/orm/prisma-client/queries/crud)
+- [Nexus (GraphQL schema generation)](https://nexusjs.org/docs/)
+- [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
+- [Apollo Client](https://www.apollographql.com/docs/react)
+- GraphQL Code Generator (for apollo client requests)
 
 ---
 
