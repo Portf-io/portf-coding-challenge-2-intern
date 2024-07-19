@@ -16,15 +16,8 @@ const taskData: Prisma.TaskCreateInput[] = [
     createdAt: new Date(),
   },
   {
-    title: "Support sub-tasks",
-    description: "Add support for array of sub-tasks on a task",
-    status: "TO_DO",
-    createdAt: new Date(),
-  },
-  {
-    title: "Optimise BE performance across multiple clients",
-    description:
-      "For the sub-tasks request; Create a generic backend function that accepts another function as an argument, executes it once to fetch data from the database, and caches the result for subsequent calls. This caching mechanism ensures that for any given function passed as an argument, the same data is always returned while only making one database request.",
+    title: "Delete",
+    description: "Delete a task",
     status: "TO_DO",
     createdAt: new Date(),
   },

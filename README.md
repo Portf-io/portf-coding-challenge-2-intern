@@ -10,8 +10,6 @@ Already scaffolded for you is a NextJS app with the following integrations:
 - Apollo Client
 - GraphQL Code Generator (for apollo client requests
 
-
-
 ---
 
 ### Clone this repo
@@ -20,7 +18,7 @@ Start off by cloning this repo using the "Use this template" button at the top r
 
 ![alt text](image.png)
 
-In the settings of your new private repo, invite `tomwhale` as a collaborator.
+In the settings of your new private repo, invite `tomwhale` and `stu-dev` as a collaborator.
 
 ![alt text](image-1.png)
 
